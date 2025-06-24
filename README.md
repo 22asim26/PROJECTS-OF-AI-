@@ -41,7 +41,3 @@ This project aims to detect emotions (such as joy, anger, sadness, etc.) from sh
    git clone https://github.com/yourusername/text-emotion-detector.git
    cd text-emotion-detector
 
-
-pip install -r requirements.txt
-
-jupyter notebook Text_Emotion_Detection.ipynb
